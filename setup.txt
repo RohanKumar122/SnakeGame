@@ -1,0 +1,6 @@
+from cx_Freeze import setup , Executable
+setup(name ="Snake Game",
+                version="0.1",
+                 description ="Snake game is very enjoyable",
+                 executables=[Executable("D:\python programs\GAME\Game\Snake.py")]
+           )
