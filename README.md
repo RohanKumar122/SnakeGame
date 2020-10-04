@@ -1,4 +1,4 @@
-## SnakeGame
+### SnakeGame
 This is an Amzing and Interested Game that we were played during our childhood. It was famous by the name of Nokia Snake Game. So, now it was available for us and it was completely developed using Python.
 
 # Requirements
